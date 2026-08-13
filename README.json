@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:51:45Z",
+            "last_commit": "2026-08-13T06:19:01Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99060
+            "stars": 99067
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T15:30:27Z",
+            "last_commit": "2026-08-13T11:53:12Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98754
+            "stars": 98753
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T16:01:42Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13000
+            "stars": 13001
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-12T21:32:35Z",
+            "last_commit": "2026-08-13T15:08:10Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7149
@@ -89,7 +89,7 @@
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6394
+            "stars": 6393
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-06T20:19:49Z",
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4366
+            "stars": 4365
           }
         },
         {
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T15:28:29Z",
+            "last_commit": "2026-08-13T15:41:44Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3785
@@ -145,7 +145,7 @@
             "last_commit": "2025-01-13T20:49:27Z",
             "owner": "OfficeDev",
             "repo": "office-ui-fabric-core",
-            "stars": 3743
+            "stars": 3742
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-06-02T19:25:48Z",
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3699
+            "stars": 3700
           }
         },
         {
@@ -685,7 +685,7 @@
             "last_commit": "2026-08-07T13:16:32Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1708
+            "stars": 1707
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-06-30T19:42:00Z",
             "owner": "AgnosticUI",
             "repo": "agnosticui",
-            "stars": 822
+            "stars": 823
           }
         }
       ],
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:33.044Z",
+    "last_updated": "2026-08-13T17:45:44.855Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
     "enhanced_repository": "enhansome/enhansome-ux-design-styles",
