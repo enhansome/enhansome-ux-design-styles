@@ -1,0 +1,727 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Related List - Awesome UI component library for component library implementation (React, Vue, Angular, etc) for styleguides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ant Design",
+          "description": "by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:51:45Z",
+            "owner": "ant-design",
+            "repo": "ant-design",
+            "stars": 99060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material design",
+          "description": "by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:30:27Z",
+            "owner": "mui",
+            "repo": "material-ui",
+            "stars": 98754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Primer",
+          "description": "by Github - Resources, tooling, and design guidelines for building websites with Primer, GitHub's front-end framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T16:01:42Z",
+            "owner": "primer",
+            "repo": "css",
+            "stars": 13000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grommet",
+          "description": "by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:17:34Z",
+            "owner": "grommet",
+            "repo": "grommet",
+            "stars": 8354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U.S. Web Design System",
+          "description": "by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-12T21:32:35Z",
+            "owner": "uswds",
+            "repo": "uswds",
+            "stars": 7149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clarity Design System",
+          "description": "by VMWare - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-16T01:37:07Z",
+            "owner": "vmware-archive",
+            "repo": "clarity",
+            "stars": 6394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polaris",
+          "description": "by Shopify - practical guides to help one understand how to design for the Shopify platform using Polaris.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:11:56Z",
+            "owner": "Shopify",
+            "repo": "polaris-react-archive",
+            "stars": 6175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gestalt",
+          "description": "by Pinterest - Pinterest’s design language used across products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T20:19:49Z",
+            "owner": "pinterest",
+            "repo": "gestalt",
+            "stars": 4366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RingUI",
+          "description": "by JetBrains - This collection of UI components aims to provide all of the necessary building blocks for web-based products built inside JetBrains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:28:29Z",
+            "owner": "JetBrains",
+            "repo": "ring-ui",
+            "stars": 3785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabric UI",
+          "description": "by Microsoft - The official front-end framework for building experiences that fit seamlessly into Office and Office 365.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2025-01-13T20:49:27Z",
+            "owner": "OfficeDev",
+            "repo": "office-ui-fabric-core",
+            "stars": 3743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightning Design System",
+          "description": "by Salesforce - The Salesforce Lightning Design System includes the resources to create user interfaces consistent with the Salesforce Lightning principles, design language, and best practices",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T19:25:48Z",
+            "owner": "salesforce-ux",
+            "repo": "design-system",
+            "stars": 3699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Australian Government Design System",
+          "description": "by Commonwealth of Australia - The Australian Government Design System provides a framework and a set of tools to help designers and developers build government products and services more easily",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-08-19T23:53:05Z",
+            "owner": "govau",
+            "repo": "design-system-components",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PricelineOne",
+          "description": "by Priceline - Priceline.com Design System to create a consistently great experience for users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T13:27:25Z",
+            "owner": "priceline",
+            "repo": "design-system",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stacks",
+          "description": "by Stack Overflow - Stacks provides everything you need to quickly design, build, and ship coherent experiences across all of Stack Overflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:13:48Z",
+            "owner": "StackExchange",
+            "repo": "Stacks",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pivotal UI",
+          "description": "by Pivotal Software - Pivotal UI is a collection of React components that are styled for the Pivotal brand",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-15T20:16:50Z",
+            "owner": "pivotal-cf",
+            "repo": "pivotal-ui",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mineral UI",
+          "description": "A design system for the web that lets you quickly build high-quality, accessible apps. Created by CA Technologies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T17:57:27Z",
+            "owner": "mineral-ui",
+            "repo": "mineral-ui",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feather",
+          "description": "by Alfa-Bank - Design system in Alfa-Bank",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-12T23:30:33Z",
+            "owner": "alfa-laboratory",
+            "repo": "arui-feather",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auth0 Cosmos",
+          "description": "by auth0 - Cosmos is a Design System to build Auth0 products.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-17T17:06:15Z",
+            "owner": "auth0",
+            "repo": "cosmos",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seek Style Guide",
+          "description": "by Seek - Living style guide for SEEK, powered by React, webpack, CSS Modules and Less",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-07-16T04:23:06Z",
+            "owner": "seek-oss",
+            "repo": "seek-style-guide",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluralsight Design System",
+          "description": "by Pluralsight - The UI building blocks for creating a cohesive design across Pluralsight products.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-06-03T14:21:25Z",
+            "owner": "pluralsight",
+            "repo": "classic-design-system",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mozilla Protocol",
+          "description": "by Mozilla - A design system for Mozilla websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-06-24T17:27:51Z",
+            "owner": "mozilla",
+            "repo": "protocol",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon",
+          "description": "by Mozilla Firefox - Firefox’s Photon Design System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-09-25T05:49:04Z",
+            "owner": "FirefoxUX",
+            "repo": "photon",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTEX Styleguide",
+          "description": "by VTEX - The VTEX Design System backed by React component library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-14T19:52:36Z",
+            "owner": "vtex",
+            "repo": "styleguide",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainly style guide",
+          "description": "by Brainly - This style guide is being used across all language versions of the Brainly website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-17T11:05:13Z",
+            "owner": "brainly",
+            "repo": "style-guide",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auth0 Styleguide",
+          "description": "by auth0 - Conjunction of design patterns, components and resources used across auth0's products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Stylus",
+            "last_commit": "2026-05-21T21:21:56Z",
+            "owner": "auth0",
+            "repo": "styleguide",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zendesk Garden",
+          "description": "by Zendesk - Garden is where user interface components for Zendesk products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:03:03Z",
+            "owner": "zendeskgarden",
+            "repo": "css-components",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark Design System",
+          "description": "by Quicken Loans - Spark Design System is a system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-11T20:47:46Z",
+            "owner": "sparkdesignsystem",
+            "repo": "spark-design-system",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snacks",
+          "description": "by Instacart - Snacks is a JavaScript and React based component library. It has a default theme matching Instacart's styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-30T15:19:44Z",
+            "owner": "instacart",
+            "repo": "Snacks",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFPB Design Manual",
+          "description": "The Consumer Financial Protection Bureau's user interface framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-07-10T15:00:51Z",
+            "owner": "cfpb",
+            "repo": "capital-framework",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cedar",
+          "description": "by Rei - REI Digital Design System presentation framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-31T16:43:50Z",
+            "owner": "rei",
+            "repo": "rei-cedar",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plasma",
+          "description": "by WeWork - Plasma is a design system for creating sensible, modern interfaces by WeWork",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T06:05:25Z",
+            "owner": "wework",
+            "repo": "plasma",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB's UI Design System",
+          "description": "by MongoDB - The MongoDB Design System contains the UI building blocks that make up the user experience across all MongoDB products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:13:44Z",
+            "owner": "mongodb",
+            "repo": "design",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Altinn Design System",
+          "description": "by Altinn- The design system is based on so-called atomic design methodology, where instead of designing pages design components that can be assembled and reused in different web solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2025-10-13T06:29:32Z",
+            "owner": "Altinn",
+            "repo": "DesignSystem",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon",
+          "description": "by Pusher - Chameleon is a library of front-end patterns, variables, and helpers used by Pusher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-02-29T01:18:30Z",
+            "owner": "pusher",
+            "repo": "chameleon",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hedwig",
+          "description": "by Bring & Posten - Collection of design components that can be assembled together to build any number of applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-19T07:51:20Z",
+            "owner": "bring",
+            "repo": "hedwig",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNVS UI System",
+          "description": "by Mesosphere - CNVS (pronounced \"Canvas\") is a system of user interface elements and components built for use across Mesosphere sites and products",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-04-16T00:29:44Z",
+            "owner": "d2iq-archive",
+            "repo": "cnvs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lexicon",
+          "description": "by Liferay - Lexicon is a design language that provides a common framework for building interfaces within the Liferay product ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-03-13T16:16:43Z",
+            "owner": "liferay",
+            "repo": "lexicon-site",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swarm Design System",
+          "description": "by Meetup - Guidelines for product design at Meetup. Includes our design team’s processes and principles as well as visual design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-06T04:01:31Z",
+            "owner": "meetuparchive",
+            "repo": "swarm-design-system",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uStyle",
+          "description": "by uSwitch- uStyle includes documentation and guidelines relating to uSwitch's core design principles",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smarty",
+            "last_commit": "2024-02-07T19:28:52Z",
+            "owner": "uswitch",
+            "repo": "ustyle",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora design system",
+          "description": "by Government of Canada - Aurora design system is a central design guide created by the Digital Collaboration Division within the Government of Canada for their digital products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-23T09:13:07Z",
+            "owner": "gctools-outilsgc",
+            "repo": "aurora-website",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation Design System",
+          "description": "by Envato - The Foundation Design System is a collection of predefined tokens, user interface components and guidelines for their usage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-05-16T07:09:28Z",
+            "owner": "envato-archive",
+            "repo": "foundation-design-system-tokens",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Design System",
+          "description": "by National Instruments - A system for designing and developing National Instruments Software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-04T04:24:53Z",
+            "owner": "ni",
+            "repo": "design-system",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpack",
+          "description": "by Skyscanner - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-02-08T14:19:15Z",
+            "owner": "backpack",
+            "repo": "backpack.github.io",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Help Scout Style Guide",
+          "description": "by Help Scout - This style guide is a way to empower members of the Help Scout team to move quickly and have consistent experience",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-26T16:31:08Z",
+            "owner": "helpscout",
+            "repo": "seed-base",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COOP Design Manual",
+          "description": "by COOP - A front-end toolkit containing styles and static assets for building Co-op-branded digital content.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2018-07-31T10:10:41Z",
+            "owner": "coopdigital",
+            "repo": "coop-frontend-toolkit",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audi UI",
+          "description": "by Audi - based on the principles of the Audi look: variety, honesty and balance.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Gel",
+          "description": "by BBC - Global Experience Language(GEL) is the BBC’s shared design framework. A system of reusable interaction patterns used to assemble the BBC’s entire online output.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Origami",
+          "description": "by Financial Times - Origami is a group of services, components, and tools used to help build websites.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Rizzo",
+          "description": "by Lonely Planet - Rizzo is the UI layer for lonelyplanet.com. Rizzo also serves LP's header and footer, assets and Style Guide.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "USAJOBS Design System",
+          "description": "by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal",
+          "children": []
+        }
+      ],
+      "title": "Guidelines/Styleguides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome UI component library",
+          "description": "for component library implementation (React, Vue, Angular, etc) for styleguides",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T13:16:32Z",
+            "owner": "anubhavsrivastava",
+            "repo": "awesome-ui-component-library",
+            "stars": 1708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgnosticUI",
+          "description": "Accessible React component primitives that also work with Vue 3, Svelte, and Angular! (GitHub, Demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T19:42:00Z",
+            "owner": "AgnosticUI",
+            "repo": "agnosticui",
+            "stars": 822
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "Suggestions and PRs are welcome!\nPlease read the contribution guidelines to get started.\n",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "Creative Commons Zero v1.0 Universal",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:33.044Z",
+    "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
+    "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
+    "enhanced_repository": "enhansome/enhansome-ux-design-styles",
+    "enhanced_repository_description": null,
+    "title": "Awesome UX Design Styleguides with stars"
+  }
+}
