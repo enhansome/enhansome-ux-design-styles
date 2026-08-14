@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:19:01Z",
+            "last_commit": "2026-08-14T11:45:01Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99067
+            "stars": 99086
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T11:53:12Z",
+            "last_commit": "2026-08-14T17:19:27Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98753
+            "stars": 98768
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-11T16:01:42Z",
+            "last_commit": "2026-08-14T15:25:10Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13001
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:17:34Z",
+            "last_commit": "2026-08-14T17:03:38Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8354
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-13T15:08:10Z",
+            "last_commit": "2026-08-14T17:41:25Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7149
+            "stars": 7150
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6393
+            "stars": 6392
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6175
+            "stars": 6176
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-06T20:19:49Z",
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4365
+            "stars": 4366
           }
         },
         {
@@ -128,10 +128,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T15:41:44Z",
+            "last_commit": "2026-08-14T16:52:30Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3785
+            "stars": 3786
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-07-15T13:27:25Z",
             "owner": "priceline",
             "repo": "design-system",
-            "stars": 727
+            "stars": 728
           }
         },
         {
@@ -366,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T23:03:03Z",
+            "last_commit": "2026-08-13T18:03:13Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -682,10 +682,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T13:16:32Z",
+            "last_commit": "2026-08-14T08:51:07Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1707
+            "stars": 1709
           }
         },
         {
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:45:44.855Z",
+    "last_updated": "2026-08-14T17:41:36.321Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
     "enhanced_repository": "enhansome/enhansome-ux-design-styles",
