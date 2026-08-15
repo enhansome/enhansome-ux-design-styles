@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:45:01Z",
+            "last_commit": "2026-08-15T07:12:46Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99086
+            "stars": 99087
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-14T17:19:27Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98768
+            "stars": 98796
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T15:25:10Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13001
+            "stars": 13002
           }
         },
         {
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:03:38Z",
+            "last_commit": "2026-08-14T20:03:34Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8354
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-14T17:41:25Z",
+            "last_commit": "2026-08-14T22:21:45Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7150
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:52:30Z",
+            "last_commit": "2026-08-14T18:39:00Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3786
@@ -366,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:03:13Z",
+            "last_commit": "2026-08-15T17:05:31Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -685,7 +685,7 @@
             "last_commit": "2026-08-14T08:51:07Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1709
+            "stars": 1710
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-06-30T19:42:00Z",
             "owner": "AgnosticUI",
             "repo": "agnosticui",
-            "stars": 823
+            "stars": 824
           }
         }
       ],
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:41:36.321Z",
+    "last_updated": "2026-08-15T17:06:39.502Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
     "enhanced_repository": "enhansome/enhansome-ux-design-styles",
