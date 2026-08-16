@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:12:46Z",
+            "last_commit": "2026-08-16T16:30:39Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99087
+            "stars": 99086
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:19:27Z",
+            "last_commit": "2026-08-16T00:35:56Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98796
+            "stars": 98828
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-14T22:21:45Z",
+            "last_commit": "2026-08-16T16:51:01Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7150
@@ -89,7 +89,7 @@
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6392
+            "stars": 6391
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6176
+            "stars": 6175
           }
         },
         {
@@ -128,7 +128,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:39:00Z",
+            "last_commit": "2026-08-16T08:02:50Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3786
@@ -366,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T17:05:31Z",
+            "last_commit": "2026-08-15T22:12:56Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:06:39.502Z",
+    "last_updated": "2026-08-16T17:05:34.003Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
     "enhanced_repository": "enhansome/enhansome-ux-design-styles",
