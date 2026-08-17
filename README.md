@@ -6,7 +6,7 @@
 
 Design System - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
-### Related List - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,710 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-14 for component library implementation (React, Vue, Angular, etc) for styleguides
+### Related List - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
 
 ## Contents
 
@@ -23,11 +23,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Guidelines/Styleguides
 
-* [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=\&style=social)](https://github.com/ant-design/ant-design/) ⭐ 99,086 | 🐛 1,109 | 🌐 TypeScript | 📅 2026-08-16 by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=\&style=social)](https://github.com/mui-org/material-ui) ⭐ 98,828 | 🐛 1,511 | 🌐 JavaScript | 📅 2026-08-16 by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
-* [Primer](https://styleguide.github.com/primer/) [![Repo Star](https://img.shields.io/github/stars/primer/css.svg?label=\&style=social)](https://github.com/primer/css) ⭐ 13,002 | 🐛 5 | 🌐 SCSS | 📅 2026-08-14 by Github - Resources, tooling, and design guidelines for building websites with Primer, GitHub's front-end framework.
-* [Grommet](https://v2.grommet.io/) [![Repo Star](https://img.shields.io/github/stars/grommet/grommet.svg?label=\&style=social)](https://github.com/grommet/grommet) ⭐ 8,354 | 🐛 455 | 🌐 JavaScript | 📅 2026-08-14 by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming
-* [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=\&style=social)](https://github.com/uswds/uswds) ⭐ 7,150 | 🐛 346 | 🌐 SCSS | 📅 2026-08-16 by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+* [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=\&style=social)](https://github.com/ant-design/ant-design/) ⭐ 99,095 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-08-17 by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=\&style=social)](https://github.com/mui-org/material-ui) ⭐ 98,847 | 🐛 1,495 | 🌐 JavaScript | 📅 2026-08-17 by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
+* [Primer](https://styleguide.github.com/primer/) [![Repo Star](https://img.shields.io/github/stars/primer/css.svg?label=\&style=social)](https://github.com/primer/css) ⭐ 13,001 | 🐛 6 | 🌐 SCSS | 📅 2026-08-17 by Github - Resources, tooling, and design guidelines for building websites with Primer, GitHub's front-end framework.
+* [Grommet](https://v2.grommet.io/) [![Repo Star](https://img.shields.io/github/stars/grommet/grommet.svg?label=\&style=social)](https://github.com/grommet/grommet) ⭐ 8,354 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-17 by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming
+* [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=\&style=social)](https://github.com/uswds/uswds) ⭐ 7,150 | 🐛 345 | 🌐 SCSS | 📅 2026-08-17 by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 * [Clarity Design System](https://clarity.design/) [![Repo Star](https://img.shields.io/github/stars/vmware/clarity.svg?label=\&style=social)](https://github.com/vmware/clarity) ⚠️ Archived by VMWare - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 * [Polaris](https://polaris.shopify.com/) [![Repo Star](https://img.shields.io/github/stars/Shopify/polaris.svg?label=\&style=social)](https://github.com/Shopify/polaris) ⚠️ Archived by Shopify - practical guides to help one understand how to design for the Shopify platform using Polaris.
 * [Gestalt](https://pinterest.github.io/gestalt/) [![Repo Star](https://img.shields.io/github/stars/pinterest/gestalt.svg?label=\&style=social)](https://github.com/pinterest/gestalt) ⭐ 4,366 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 by Pinterest - Pinterest’s design language used across products
@@ -36,7 +36,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 * [Lightning Design System](https://www.lightningdesignsystem.com/) [![Repo Star](https://img.shields.io/github/stars/salesforce-ux/design-system.svg?label=\&style=social)](https://github.com/salesforce-ux/design-system) ⚠️ Archived by Salesforce - The Salesforce Lightning Design System includes the resources to create user interfaces consistent with the Salesforce Lightning principles, design language, and best practices
 * [Australian Government Design System](https://designsystem.gov.au/) [![Repo Star](https://img.shields.io/github/stars/govau/design-system-components.svg?label=\&style=social)](https://github.com/govau/design-system-components) ⚠️ Archived by Commonwealth of Australia - The Australian Government Design System provides a framework and a set of tools to help designers and developers build government products and services more easily
 * [PricelineOne](https://pricelinelabs.github.io/design-system/) [![Repo Star](https://img.shields.io/github/stars/pricelinelabs/design-system.svg?label=\&style=social)](https://github.com/pricelinelabs/design-system/) ⭐ 728 | 🐛 42 | 🌐 TypeScript | 📅 2026-07-15 by Priceline - Priceline.com Design System to create a consistently great experience for users
-* [Stacks](https://stackoverflow.design/) [![Repo Star](https://img.shields.io/github/stars/StackExchange/Stacks.svg?label=\&style=social)](https://github.com/StackExchange/Stacks) ⭐ 668 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-13 by Stack Overflow - Stacks provides everything you need to quickly design, build, and ship coherent experiences across all of Stack Overflow
+* [Stacks](https://stackoverflow.design/) [![Repo Star](https://img.shields.io/github/stars/StackExchange/Stacks.svg?label=\&style=social)](https://github.com/StackExchange/Stacks) ⭐ 668 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-17 by Stack Overflow - Stacks provides everything you need to quickly design, build, and ship coherent experiences across all of Stack Overflow
 * [Pivotal UI](https://styleguide.pivotal.io) [![Repo Star](https://img.shields.io/github/stars/pivotal-cf/pivotal-ui.svg?label=\&style=social)](https://github.com/pivotal-cf/pivotal-ui) ⭐ 639 | 🐛 61 | 🌐 JavaScript | 📅 2024-05-15 by Pivotal Software - Pivotal UI is a collection of React components that are styled for the Pivotal brand
 * [Mineral UI](https://mineral-ui.com/) [![Repo Star](https://img.shields.io/github/stars/mineral-ui/mineral-ui.svg?label=\&style=social)](https://github.com/mineral-ui/mineral-ui) ⭐ 556 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-06 - A design system for the web that lets you quickly build high-quality, accessible apps. Created by [CA Technologies](https://www.ca.com)
 * [Feather](https://design.alfabank.ru/) [![Repo Star](https://img.shields.io/github/stars/alfa-laboratory/arui-feather.svg?label=\&style=social)](https://github.com/alfa-laboratory/arui-feather) ⚠️ Archived by Alfa-Bank - Design system in Alfa-Bank
@@ -105,7 +105,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Resources
 
-* [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,710 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-14 for component library implementation (React, Vue, Angular, etc) for styleguides
+* [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui) ⭐ 824 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30, [Demo](https://developtodesign.com/agnosticui-examples))
 * [Google Design](https://design.google/) - Cooperative effort led by a group of designers, writers, and developers at Google to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.
 
@@ -126,4 +126,4 @@ Creative Commons Zero v1.0 Universal
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
