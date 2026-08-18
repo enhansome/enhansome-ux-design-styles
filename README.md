@@ -6,7 +6,7 @@
 
 Design System - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 
-### Related List - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
+### Related List - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
 
 ## Contents
 
@@ -23,11 +23,11 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Guidelines/Styleguides
 
-* [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=\&style=social)](https://github.com/ant-design/ant-design/) ⭐ 99,095 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-08-17 by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
-* [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=\&style=social)](https://github.com/mui-org/material-ui) ⭐ 98,847 | 🐛 1,495 | 🌐 JavaScript | 📅 2026-08-17 by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
-* [Primer](https://styleguide.github.com/primer/) [![Repo Star](https://img.shields.io/github/stars/primer/css.svg?label=\&style=social)](https://github.com/primer/css) ⭐ 13,001 | 🐛 6 | 🌐 SCSS | 📅 2026-08-17 by Github - Resources, tooling, and design guidelines for building websites with Primer, GitHub's front-end framework.
-* [Grommet](https://v2.grommet.io/) [![Repo Star](https://img.shields.io/github/stars/grommet/grommet.svg?label=\&style=social)](https://github.com/grommet/grommet) ⭐ 8,354 | 🐛 456 | 🌐 JavaScript | 📅 2026-08-17 by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming
-* [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=\&style=social)](https://github.com/uswds/uswds) ⭐ 7,150 | 🐛 345 | 🌐 SCSS | 📅 2026-08-17 by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+* [Ant Design](https://ant.design/) [![Repo Star](https://img.shields.io/github/stars/ant-design/ant-design.svg?label=\&style=social)](https://github.com/ant-design/ant-design/) ⭐ 99,112 | 🐛 1,079 | 🌐 TypeScript | 📅 2026-08-18 by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.
+* [Material design](https://material.io/design) [![Repo Star](https://img.shields.io/github/stars/mui-org/material-ui.svg?label=\&style=social)](https://github.com/mui-org/material-ui) ⭐ 98,852 | 🐛 1,490 | 🌐 JavaScript | 📅 2026-08-18 by Google - Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
+* [Primer](https://styleguide.github.com/primer/) [![Repo Star](https://img.shields.io/github/stars/primer/css.svg?label=\&style=social)](https://github.com/primer/css) ⭐ 13,004 | 🐛 5 | 🌐 SCSS | 📅 2026-08-18 by Github - Resources, tooling, and design guidelines for building websites with Primer, GitHub's front-end framework.
+* [Grommet](https://v2.grommet.io/) [![Repo Star](https://img.shields.io/github/stars/grommet/grommet.svg?label=\&style=social)](https://github.com/grommet/grommet) ⭐ 8,354 | 🐛 460 | 🌐 JavaScript | 📅 2026-08-18 by HP Enterprise - Part design system, part framework (react) that provides accessibility, modularity, responsiveness, and theming
+* [U.S. Web Design System](https://designsystem.digital.gov/) [![Repo Star](https://img.shields.io/github/stars/uswds/uswds.svg?label=\&style=social)](https://github.com/uswds/uswds) ⭐ 7,150 | 🐛 341 | 🌐 SCSS | 📅 2026-08-18 by United States government - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 * [Clarity Design System](https://clarity.design/) [![Repo Star](https://img.shields.io/github/stars/vmware/clarity.svg?label=\&style=social)](https://github.com/vmware/clarity) ⚠️ Archived by VMWare - UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 * [Polaris](https://polaris.shopify.com/) [![Repo Star](https://img.shields.io/github/stars/Shopify/polaris.svg?label=\&style=social)](https://github.com/Shopify/polaris) ⚠️ Archived by Shopify - practical guides to help one understand how to design for the Shopify platform using Polaris.
 * [Gestalt](https://pinterest.github.io/gestalt/) [![Repo Star](https://img.shields.io/github/stars/pinterest/gestalt.svg?label=\&style=social)](https://github.com/pinterest/gestalt) ⭐ 4,366 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06 by Pinterest - Pinterest’s design language used across products
@@ -48,7 +48,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 * [VTEX Styleguide](https://styleguide.vtex.com/) [![Repo Star](https://img.shields.io/github/stars/vtex/styleguide.svg?label=\&style=social)](https://github.com/vtex/styleguide) ⭐ 173 | 🐛 79 | 🌐 JavaScript | 📅 2026-05-14 by VTEX - The VTEX Design System backed by React component library
 * [Brainly style guide](https://styleguide.brainly.com) [![Repo Star](https://img.shields.io/github/stars/brainly/style-guide.svg?label=\&style=social)](https://github.com/brainly/style-guide) ⭐ 165 | 🐛 37 | 🌐 TypeScript | 📅 2025-11-17 by Brainly - This style guide is being used across all language versions of the Brainly website.
 * [auth0 Styleguide](https://styleguide.auth0.com/) [![Repo Star](https://img.shields.io/github/stars/auth0/styleguide.svg?label=\&style=social)](https://github.com/auth0/styleguide) ⭐ 159 | 🐛 3 | 🌐 Stylus | 📅 2026-05-21 by auth0 - Conjunction of design patterns, components and resources used across auth0's products.
-* [Zendesk Garden](https://garden.zendesk.com/) [![Repo Star](https://img.shields.io/github/stars/zendeskgarden/css-components.svg?label=\&style=social)](https://github.com/zendeskgarden/css-components) ⭐ 128 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-15 by Zendesk - Garden is where user interface components for Zendesk products.
+* [Zendesk Garden](https://garden.zendesk.com/) [![Repo Star](https://img.shields.io/github/stars/zendeskgarden/css-components.svg?label=\&style=social)](https://github.com/zendeskgarden/css-components) ⭐ 128 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-18 by Zendesk - Garden is where user interface components for Zendesk products.
 * [Spark Design System](https://sparkdesignsystem.com/) [![Repo Star](https://img.shields.io/github/stars/sparkdesignsystem/spark-design-system.svg?label=\&style=social)](https://github.com/sparkdesignsystem/spark-design-system) ⭐ 114 | 🐛 30 | 🌐 JavaScript | 📅 2023-01-11 by Quicken Loans - Spark Design System is a system of patterns and components used to create the user interface for the Quicken Loans family of Fintech products
 * [Snacks](https://instacart.github.io/Snacks/) [![Repo Star](https://img.shields.io/github/stars/instacart/Snacks.svg?label=\&style=social)](https://github.com/instacart/Snacks) ⭐ 82 | 🐛 52 | 🌐 JavaScript | 📅 2025-05-30 by Instacart - Snacks is a JavaScript and React based component library. It has a default theme matching Instacart's styles.
 * [CFPB Design Manual](https://cfpb.github.io/design-manual/) [![Repo Star](https://img.shields.io/github/stars/cfpb/capital-framework.svg?label=\&style=social)](https://github.com/cfpb/capital-framework) ⚠️ Archived - The Consumer Financial Protection Bureau's user interface framework
@@ -105,7 +105,7 @@ Design System - [A comprehensive guide to design systems](https://www.invisionap
 
 ## Resources
 
-* [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
+* [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,711 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-17 for component library implementation (React, Vue, Angular, etc) for styleguides
 * [AgnosticUI](https://www.agnosticui.com/) - Accessible React component primitives that also work with Vue 3, Svelte, and Angular! ([GitHub](https://github.com/AgnosticUI/agnosticui) ⭐ 824 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30, [Demo](https://developtodesign.com/agnosticui-examples))
 * [Google Design](https://design.google/) - Cooperative effort led by a group of designers, writers, and developers at Google to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.
 
@@ -126,4 +126,4 @@ Creative Commons Zero v1.0 Universal
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
