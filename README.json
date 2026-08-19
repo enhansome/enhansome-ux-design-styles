@@ -12,7 +12,7 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:53:43Z",
+            "last_commit": "2026-08-19T15:47:20Z",
             "owner": "ant-design",
             "repo": "ant-design",
             "stars": 99117
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T09:19:22Z",
+            "last_commit": "2026-08-19T15:22:34Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98863
+            "stars": 98865
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T02:57:00Z",
+            "last_commit": "2026-08-19T16:39:22Z",
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8353
+            "stars": 8351
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-18T22:03:05Z",
+            "last_commit": "2026-08-19T15:37:11Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7151
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 107425935,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T13:51:22Z",
+            "last_commit": "2026-08-19T17:03:33Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:22.643Z",
+    "last_updated": "2026-08-19T17:12:28.382Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
