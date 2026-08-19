@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Related List - Awesome UI component library for component library implementation (React, Vue, Angular, etc) for styleguides"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:30:38Z",
+            "last_commit": "2026-08-19T10:53:43Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99112
+            "stars": 99117
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T10:11:02Z",
+            "last_commit": "2026-08-19T09:19:22Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98852
+            "stars": 98863
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-18T05:34:51Z",
+            "last_commit": "2026-08-18T23:40:11Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13004
+            "stars": 13007
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T15:59:33Z",
+            "last_commit": "2026-08-19T02:57:00Z",
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8354
+            "stars": 8353
           }
         },
         {
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-18T15:36:58Z",
+            "last_commit": "2026-08-18T22:03:05Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7150
+            "stars": 7151
           }
         },
         {
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69590701,
             "language": "TypeScript",
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 88897663,
             "language": "TypeScript",
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
@@ -113,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121806807,
             "language": "TypeScript",
             "last_commit": "2026-08-06T20:19:49Z",
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4366
+            "stars": 4367
           }
         },
         {
@@ -127,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:02:50Z",
+            "last_commit": "2026-08-18T17:21:44Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3786
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35903830,
             "language": "SCSS",
             "last_commit": "2025-01-13T20:49:27Z",
             "owner": "OfficeDev",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41759029,
             "language": "JavaScript",
             "last_commit": "2026-06-02T19:25:48Z",
             "owner": "salesforce-ux",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78596482,
             "language": "HTML",
             "last_commit": "2021-08-19T23:53:05Z",
             "owner": "govau",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97530717,
             "language": "TypeScript",
             "last_commit": "2026-07-15T13:27:25Z",
             "owner": "priceline",
@@ -197,8 +205,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:06:22Z",
+            "last_commit": "2026-08-18T22:39:38Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19867319,
             "language": "JavaScript",
             "last_commit": "2024-05-15T20:16:50Z",
             "owner": "pivotal-cf",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87827232,
             "language": "JavaScript",
             "last_commit": "2022-12-06T17:57:27Z",
             "owner": "mineral-ui",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87942363,
             "language": "TypeScript",
             "last_commit": "2022-04-12T23:30:33Z",
             "owner": "alfa-laboratory",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109145408,
             "language": "JavaScript",
             "last_commit": "2023-05-17T17:06:15Z",
             "owner": "auth0",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56475150,
             "language": "JavaScript",
             "last_commit": "2021-07-16T04:23:06Z",
             "owner": "seek-oss",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90648288,
             "language": "TypeScript",
             "last_commit": "2024-06-03T14:21:25Z",
             "owner": "pluralsight",
@@ -295,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122381861,
             "language": "SCSS",
             "last_commit": "2026-06-24T17:27:51Z",
             "owner": "mozilla",
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92306609,
             "language": "SCSS",
             "last_commit": "2023-09-25T05:49:04Z",
             "owner": "FirefoxUX",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88881460,
             "language": "JavaScript",
             "last_commit": "2026-05-14T19:52:36Z",
             "owner": "vtex",
@@ -337,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37660230,
             "language": "TypeScript",
             "last_commit": "2025-11-17T11:05:13Z",
             "owner": "brainly",
@@ -351,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28144948,
             "language": "Stylus",
             "last_commit": "2026-05-21T21:21:56Z",
             "owner": "auth0",
@@ -365,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107425935,
             "language": "JavaScript",
             "last_commit": "2026-08-18T13:51:22Z",
             "owner": "zendeskgarden",
@@ -379,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104943277,
             "language": "JavaScript",
             "last_commit": "2023-01-11T20:47:46Z",
             "owner": "sparkdesignsystem",
@@ -393,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87229772,
             "language": "JavaScript",
             "last_commit": "2025-05-30T15:19:44Z",
             "owner": "instacart",
@@ -407,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17405777,
             "language": "HTML",
             "last_commit": "2020-07-10T15:00:51Z",
             "owner": "cfpb",
@@ -421,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379663484,
             "language": "Vue",
             "last_commit": "2026-07-31T16:43:50Z",
             "owner": "rei",
@@ -435,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62077112,
             "language": "JavaScript",
             "last_commit": "2022-12-10T06:05:25Z",
             "owner": "wework",
@@ -444,25 +470,12 @@
         },
         {
           "node_type": "item",
-          "title": "MongoDB's UI Design System",
-          "description": "by MongoDB - The MongoDB Design System contains the UI building blocks that make up the user experience across all MongoDB products.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T17:13:44Z",
-            "owner": "mongodb",
-            "repo": "design",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Altinn Design System",
           "description": "by Altinn- The design system is based on so-called atomic design methodology, where instead of designing pages design components that can be assembled and reused in different web solutions.",
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56853814,
             "language": "CSS",
             "last_commit": "2025-10-13T06:29:32Z",
             "owner": "Altinn",
@@ -477,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52163372,
             "language": "CSS",
             "last_commit": "2024-02-29T01:18:30Z",
             "owner": "pusher",
@@ -491,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87063086,
             "language": "CSS",
             "last_commit": "2024-06-19T07:51:20Z",
             "owner": "bring",
@@ -505,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43082678,
             "language": "CSS",
             "last_commit": "2019-04-16T00:29:44Z",
             "owner": "d2iq-archive",
@@ -519,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84978523,
             "language": "CSS",
             "last_commit": "2019-03-13T16:16:43Z",
             "owner": "liferay",
@@ -533,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70196603,
             "language": "JavaScript",
             "last_commit": "2023-09-06T04:01:31Z",
             "owner": "meetuparchive",
@@ -547,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12296737,
             "language": "Smarty",
             "last_commit": "2024-02-07T19:28:52Z",
             "owner": "uswitch",
@@ -561,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139061270,
             "language": "JavaScript",
             "last_commit": "2024-02-23T09:13:07Z",
             "owner": "gctools-outilsgc",
@@ -575,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72686619,
             "language": "JavaScript",
             "last_commit": "2018-05-16T07:09:28Z",
             "owner": "envato-archive",
@@ -589,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92539793,
             "language": "JavaScript",
             "last_commit": "2024-06-04T04:24:53Z",
             "owner": "ni",
@@ -603,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111157581,
             "language": "HTML",
             "last_commit": "2023-02-08T14:19:15Z",
             "owner": "backpack",
@@ -617,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73247240,
             "language": "JavaScript",
             "last_commit": "2017-05-26T16:31:08Z",
             "owner": "helpscout",
@@ -631,48 +655,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53422782,
             "language": "CSS",
             "last_commit": "2018-07-31T10:10:41Z",
             "owner": "coopdigital",
             "repo": "coop-frontend-toolkit",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Audi UI",
-          "description": "by Audi - based on the principles of the Audi look: variety, honesty and balance.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Gel",
-          "description": "by BBC - Global Experience Language(GEL) is the BBC’s shared design framework. A system of reusable interaction patterns used to assemble the BBC’s entire online output.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Origami",
-          "description": "by Financial Times - Origami is a group of services, components, and tools used to help build websites.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Rizzo",
-          "description": "by Lonely Planet - Rizzo is the UI layer for lonelyplanet.com. Rizzo also serves LP's header and footer, assets and Style Guide.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "USAJOBS Design System",
-          "description": "by USAJOBS- Describes the design language and reusable components of USAJOBS, Open Opportunities, and Agency Talent Portal",
-          "children": []
         }
       ],
       "title": "Guidelines/Styleguides"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -681,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159008574,
             "language": "JavaScript",
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
@@ -695,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293631918,
             "language": "TypeScript",
             "last_commit": "2026-06-30T19:42:00Z",
             "owner": "AgnosticUI",
@@ -704,21 +701,12 @@
         }
       ],
       "title": "Resources"
-    },
-    {
-      "description": "Suggestions and PRs are welcome!\nPlease read the contribution guidelines to get started.\n",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "Creative Commons Zero v1.0 Universal",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:24.317Z",
+    "last_updated": "2026-08-19T12:57:22.643Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
+    "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
     "enhanced_repository": "enhansome/enhansome-ux-design-styles",
     "enhanced_repository_description": null,
