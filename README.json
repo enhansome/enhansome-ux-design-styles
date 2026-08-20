@@ -12,10 +12,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:47:20Z",
+            "last_commit": "2026-08-20T16:59:48Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99117
+            "stars": 99128
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T15:22:34Z",
+            "last_commit": "2026-08-20T13:46:18Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98865
+            "stars": 98876
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-18T23:40:11Z",
+            "last_commit": "2026-08-19T21:39:44Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13007
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T16:39:22Z",
+            "last_commit": "2026-08-19T23:00:06Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8351
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-19T15:37:11Z",
+            "last_commit": "2026-08-20T03:08:04Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7151
+            "stars": 7152
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-06T20:19:49Z",
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4367
+            "stars": 4368
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:39:38Z",
+            "last_commit": "2026-08-20T16:20:00Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 107425935,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T17:03:33Z",
+            "last_commit": "2026-08-20T14:47:49Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -681,7 +681,7 @@
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1711
+            "stars": 1712
           }
         },
         {
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:12:28.382Z",
+    "last_updated": "2026-08-20T17:14:47.525Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
