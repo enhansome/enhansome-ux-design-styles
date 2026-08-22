@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T08:46:00Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99136
+            "stars": 99146
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:20:37Z",
+            "last_commit": "2026-08-22T04:07:50Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98885
+            "stars": 98890
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-20T22:42:58Z",
+            "last_commit": "2026-08-21T19:50:16Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7155
+            "stars": 7156
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:45:16Z",
+            "last_commit": "2026-08-21T17:17:26Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3785
@@ -150,7 +150,7 @@
             "last_commit": "2025-01-13T20:49:27Z",
             "owner": "OfficeDev",
             "repo": "office-ui-fabric-core",
-            "stars": 3742
+            "stars": 3741
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2022-12-06T17:57:27Z",
             "owner": "mineral-ui",
             "repo": "mineral-ui",
-            "stars": 556
+            "stars": 555
           }
         },
         {
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:15:01.760Z",
+    "last_updated": "2026-08-22T17:05:07.985Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
