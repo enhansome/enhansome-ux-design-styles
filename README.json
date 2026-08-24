@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 159008574,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T07:25:27Z",
+            "owner": "anubhavsrivastava",
+            "repo": "awesome-ui-component-library",
+            "stars": 1712
+          },
+          "title": "Related List - Awesome UI component library for component library implementation (React, Vue, Angular, etc) for styleguides"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Ant Design",
           "description": "by Ant Financial - A design system with values of Nature and Determinacy for better user experience of enterprise applications.",
@@ -12,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:54:57Z",
+            "last_commit": "2026-08-24T12:43:50Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99153
+            "stars": 99173
           }
         },
         {
@@ -27,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T00:31:46Z",
+            "last_commit": "2026-08-24T12:56:04Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98900
+            "stars": 98914
           }
         },
         {
@@ -42,7 +63,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-19T21:39:44Z",
+            "last_commit": "2026-08-24T05:33:39Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13009
@@ -75,7 +96,7 @@
             "last_commit": "2026-08-21T19:50:16Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7157
+            "stars": 7158
           }
         },
         {
@@ -105,7 +126,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6173
+            "stars": 6174
           }
         },
         {
@@ -132,7 +153,7 @@
             "archived": false,
             "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:17:42Z",
+            "last_commit": "2026-08-24T14:38:21Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3784
@@ -207,7 +228,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:20:00Z",
+            "last_commit": "2026-08-24T10:40:48Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -704,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:08:30.604Z",
+    "last_updated": "2026-08-24T14:43:08.841Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
