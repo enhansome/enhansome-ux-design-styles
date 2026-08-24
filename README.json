@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1712
+            "stars": 1713
           },
           "title": "Related List - Awesome UI component library for component library implementation (React, Vue, Angular, etc) for styleguides"
         }
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:56:04Z",
+            "last_commit": "2026-08-24T15:14:09Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98914
+            "stars": 98916
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-21T19:50:16Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7158
+            "stars": 7159
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 97698189,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:38:21Z",
+            "last_commit": "2026-08-24T17:18:23Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3784
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:40:48Z",
+            "last_commit": "2026-08-24T15:40:15Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:08.841Z",
+    "last_updated": "2026-08-24T17:18:37.888Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
