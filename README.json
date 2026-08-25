@@ -33,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:43:50Z",
+            "last_commit": "2026-08-25T05:56:38Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99173
+            "stars": 99179
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:14:09Z",
+            "last_commit": "2026-08-25T06:19:10Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98916
+            "stars": 98923
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-24T05:33:39Z",
+            "last_commit": "2026-08-25T05:33:40Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13009
+            "stars": 13010
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T22:08:01Z",
+            "last_commit": "2026-08-24T20:59:47Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8352
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-21T19:50:16Z",
+            "last_commit": "2026-08-24T22:58:06Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7159
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:40:15Z",
+            "last_commit": "2026-08-24T22:09:56Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 379663484,
             "language": "Vue",
-            "last_commit": "2026-08-20T17:26:00Z",
+            "last_commit": "2026-08-24T18:42:04Z",
             "owner": "rei",
             "repo": "rei-cedar",
             "stars": 51
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:18:37.888Z",
+    "last_updated": "2026-08-25T06:31:08.137Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
