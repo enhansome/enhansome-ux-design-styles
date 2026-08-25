@@ -33,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:56:38Z",
+            "last_commit": "2026-08-25T11:59:25Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99179
+            "stars": 99184
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:19:10Z",
+            "last_commit": "2026-08-25T13:58:29Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98923
+            "stars": 98920
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-25T05:33:40Z",
+            "last_commit": "2026-08-25T14:57:19Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13010
+            "stars": 13008
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-24T22:58:06Z",
+            "last_commit": "2026-08-25T14:59:41Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7159
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-06T20:19:49Z",
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4368
+            "stars": 4369
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-24T17:18:23Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3784
+            "stars": 3785
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-02T19:25:48Z",
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3699
+            "stars": 3700
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T22:09:56Z",
+            "last_commit": "2026-08-25T09:21:05Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 107425935,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:14:40Z",
+            "last_commit": "2026-08-25T15:47:22Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:08.137Z",
+    "last_updated": "2026-08-25T17:18:47.392Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
