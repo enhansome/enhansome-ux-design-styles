@@ -33,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T11:59:25Z",
+            "last_commit": "2026-08-26T18:00:14Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99184
+            "stars": 99205
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T13:58:29Z",
+            "last_commit": "2026-08-26T14:22:39Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98920
+            "stars": 98935
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-25T14:57:19Z",
+            "last_commit": "2026-08-26T18:13:54Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13008
+            "stars": 13006
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-25T14:59:41Z",
+            "last_commit": "2026-08-26T18:21:46Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7159
+            "stars": 7161
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2023-03-16T01:37:07Z",
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6391
+            "stars": 6392
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-06-02T19:25:48Z",
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3700
+            "stars": 3701
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:21:05Z",
+            "last_commit": "2026-08-25T19:56:32Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 107425935,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:47:22Z",
+            "last_commit": "2026-08-26T16:14:21Z",
             "owner": "zendeskgarden",
             "repo": "css-components",
             "stars": 128
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 379663484,
             "language": "Vue",
-            "last_commit": "2026-08-24T18:42:04Z",
+            "last_commit": "2026-08-26T15:13:37Z",
             "owner": "rei",
             "repo": "rei-cedar",
             "stars": 51
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:18:47.392Z",
+    "last_updated": "2026-08-26T18:28:36.576Z",
     "original_repository": "anubhavsrivastava/awesome-ux-design-styles",
     "original_repository_id": 176014370,
     "original_repository_sha": "176beb6e3086a0adb2f91ed893dc2503c9e914a0",
