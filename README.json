@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1714
+            "stars": 1715
           },
           "title": "Related List - Awesome UI component library for component library implementation (React, Vue, Angular, etc) for styleguides"
         }
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:07Z",
+            "last_commit": "2026-08-28T00:57:11Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99220
+            "stars": 99225
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 23083156,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:00:56Z",
+            "last_commit": "2026-08-27T16:42:38Z",
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98946
+            "stars": 98948
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-27T05:35:40Z",
+            "last_commit": "2026-08-27T14:39:52Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13007
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 32787174,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T22:36:10Z",
+            "last_commit": "2026-08-28T00:03:58Z",
             "owner": "grommet",
             "repo": "grommet",
             "stars": 8352
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-26T18:48:22Z",
+            "last_commit": "2026-08-27T21:49:50Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7162
+            "stars": 7163
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-24T17:18:23Z",
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3785
+            "stars": 3786
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:28:09Z",
+            "last_commit": "2026-08-27T21:57:11Z",
             "owner": "StackExchange",
             "repo": "Stacks",
-            "stars": 668
+            "stars": 669
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-17T07:25:27Z",
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1714
+            "stars": 1715
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:11.316Z",
+    "last_updated": "2026-08-28T01:10:45.843Z",
     "original_repository_info": {
       "archived": false,
       "id": 176014370,
