@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:49:26Z",
-            "open_issues": 1109,
+            "last_commit": "2026-08-30T18:07:27Z",
+            "open_issues": 1108,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99272,
+            "stars": 99287,
             "topics": [
               "ant-design",
               "antd",
@@ -92,11 +92,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T02:03:40Z",
-            "open_issues": 1492,
+            "last_commit": "2026-08-30T16:22:36Z",
+            "open_issues": 1503,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 98965,
+            "stars": 98974,
             "topics": [
               "design-system",
               "material-design",
@@ -182,7 +182,7 @@
             "language": "SCSS",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:50:45Z",
-            "open_issues": 360,
+            "open_issues": 361,
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7166,
@@ -250,7 +250,7 @@
             "open_issues": 73,
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6173,
+            "stars": 6172,
             "topics": [
               "component-library",
               "design-system",
@@ -303,8 +303,8 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T17:18:23Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-30T00:12:34Z",
+            "open_issues": 13,
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3787,
@@ -353,7 +353,7 @@
             "open_issues": 41,
             "owner": "salesforce-ux",
             "repo": "design-system",
-            "stars": 3700,
+            "stars": 3701,
             "topics": [
               "css",
               "design-systems",
@@ -642,7 +642,7 @@
             "open_issues": 80,
             "owner": "FirefoxUX",
             "repo": "photon",
-            "stars": 276,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:08.073Z"
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:32:02.273Z",
+    "last_updated": "2026-08-30T19:30:26.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
