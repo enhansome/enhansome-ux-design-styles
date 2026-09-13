@@ -18,7 +18,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1718,
+            "stars": 1719,
             "topics": [
               "awesome",
               "awesome-list",
@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:20:28Z",
-            "open_issues": 1073,
+            "last_commit": "2026-09-13T18:48:49Z",
+            "open_issues": 1071,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99491,
+            "stars": 99499,
             "topics": [
               "ant-design",
               "antd",
@@ -92,11 +92,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:50:15Z",
-            "open_issues": 1463,
+            "last_commit": "2026-09-13T17:18:35Z",
+            "open_issues": 1475,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99035,
+            "stars": 99038,
             "topics": [
               "design-system",
               "material-design",
@@ -211,7 +211,7 @@
             "open_issues": 2,
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6392,
+            "stars": 6393,
             "topics": [
               "accessibility",
               "accessible-components",
@@ -303,11 +303,11 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:00:35Z",
+            "last_commit": "2026-09-13T00:04:53Z",
             "open_issues": 12,
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3789,
+            "stars": 3790,
             "topics": [
               "components",
               "jetbrains-ui",
@@ -746,7 +746,7 @@
             "id": 107425935,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:30:57Z",
+            "last_commit": "2026-09-13T10:29:27Z",
             "open_issues": 18,
             "owner": "zendeskgarden",
             "repo": "css-components",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1718,
+            "stars": 1719,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:49:13.637Z",
+    "last_updated": "2026-09-13T19:00:07.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
