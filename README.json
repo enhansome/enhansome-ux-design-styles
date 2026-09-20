@@ -18,7 +18,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "awesome",
               "awesome-list",
@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T10:11:18Z",
-            "open_issues": 1069,
+            "last_commit": "2026-09-20T16:02:38Z",
+            "open_issues": 1072,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99550,
+            "stars": 99565,
             "topics": [
               "ant-design",
               "antd",
@@ -92,11 +92,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:20:13Z",
-            "open_issues": 1465,
+            "last_commit": "2026-09-20T01:35:55Z",
+            "open_issues": 1475,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99059,
+            "stars": 99066,
             "topics": [
               "design-system",
               "material-design",
@@ -123,7 +123,7 @@
             "open_issues": 6,
             "owner": "primer",
             "repo": "css",
-            "stars": 13020,
+            "stars": 13021,
             "topics": [
               "css",
               "design-system",
@@ -155,7 +155,7 @@
             "open_issues": 488,
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8346,
+            "stars": 8347,
             "topics": [
               "a11y",
               "babel",
@@ -182,10 +182,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T22:03:05Z",
-            "open_issues": 186,
+            "open_issues": 179,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7196,
+            "stars": 7198,
             "topics": [
               "design",
               "design-systems",
@@ -211,7 +211,7 @@
             "open_issues": 2,
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6392,
+            "stars": 6393,
             "topics": [
               "accessibility",
               "accessible-components",
@@ -250,7 +250,7 @@
             "open_issues": 46,
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6170,
+            "stars": 6171,
             "topics": [
               "component-library",
               "design-system",
@@ -303,7 +303,7 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T11:34:41Z",
+            "last_commit": "2026-09-20T00:10:39Z",
             "open_issues": 12,
             "owner": "JetBrains",
             "repo": "ring-ui",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1258,7 +1258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:59:36.018Z",
+    "last_updated": "2026-09-20T19:05:22.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
@@ -1270,7 +1270,7 @@
       "open_issues": 1,
       "owner": "anubhavsrivastava",
       "repo": "awesome-ux-design-styles",
-      "stars": 111,
+      "stars": 112,
       "topics": [
         "awesome",
         "awesome-list",
