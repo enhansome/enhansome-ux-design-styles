@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:26:22Z",
-            "open_issues": 1076,
+            "last_commit": "2026-09-26T15:29:08Z",
+            "open_issues": 1080,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99615,
+            "stars": 99616,
             "topics": [
               "ant-design",
               "antd",
@@ -96,7 +96,7 @@
             "open_issues": 1450,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99096,
+            "stars": 99092,
             "topics": [
               "design-system",
               "material-design",
@@ -120,10 +120,10 @@
             "language": "SCSS",
             "license": "MIT",
             "last_commit": "2026-09-25T10:59:42Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "primer",
             "repo": "css",
-            "stars": 13020,
+            "stars": 13021,
             "topics": [
               "css",
               "design-system",
@@ -151,11 +151,11 @@
             "id": 32787174,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:37:11Z",
-            "open_issues": 492,
+            "last_commit": "2026-09-25T22:10:01Z",
+            "open_issues": 493,
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8347,
+            "stars": 8348,
             "topics": [
               "a11y",
               "babel",
@@ -184,7 +184,7 @@
             "open_issues": 180,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7200,
+            "stars": 7202,
             "topics": [
               "design",
               "design-systems",
@@ -210,7 +210,7 @@
             "open_issues": 2,
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6391,
+            "stars": 6390,
             "topics": [
               "accessibility",
               "accessible-components",
@@ -281,7 +281,7 @@
             "open_issues": 9,
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4375,
+            "stars": 4377,
             "topics": [
               "design-system",
               "javascript",
@@ -442,7 +442,7 @@
             "open_issues": 1,
             "owner": "StackExchange",
             "repo": "Stacks",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:08.073Z"
@@ -1257,7 +1257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:09:31.468Z",
+    "last_updated": "2026-09-26T19:27:34.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
