@@ -67,7 +67,7 @@
             "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99662,
+            "stars": 99664,
             "topics": [
               "ant-design",
               "antd",
@@ -96,7 +96,7 @@
             "open_issues": 1473,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99124,
+            "stars": 99123,
             "topics": [
               "design-system",
               "material-design",
@@ -184,7 +184,7 @@
             "open_issues": 169,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7208,
+            "stars": 7209,
             "topics": [
               "design",
               "design-systems",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:39.671Z",
+    "last_updated": "2026-10-03T19:31:29.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
