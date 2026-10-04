@@ -18,7 +18,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1724,
+            "stars": 1726,
             "topics": [
               "awesome",
               "awesome-list",
@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:13:12Z",
-            "open_issues": 1098,
+            "last_commit": "2026-10-04T17:13:51Z",
+            "open_issues": 1100,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99664,
+            "stars": 99680,
             "topics": [
               "ant-design",
               "antd",
@@ -92,11 +92,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:49:46Z",
-            "open_issues": 1473,
+            "last_commit": "2026-10-04T08:14:32Z",
+            "open_issues": 1480,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99123,
+            "stars": 99126,
             "topics": [
               "design-system",
               "material-design",
@@ -302,8 +302,8 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:15:34Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-04T00:13:16Z",
+            "open_issues": 10,
             "owner": "JetBrains",
             "repo": "ring-ui",
             "stars": 3791,
@@ -1169,7 +1169,7 @@
             "open_issues": 4,
             "owner": "anubhavsrivastava",
             "repo": "awesome-ui-component-library",
-            "stars": 1724,
+            "stars": 1726,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:31:29.051Z",
+    "last_updated": "2026-10-04T19:49:22.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
@@ -1248,7 +1248,7 @@
       "open_issues": 1,
       "owner": "anubhavsrivastava",
       "repo": "awesome-ux-design-styles",
-      "stars": 113,
+      "stars": 114,
       "topics": [
         "awesome",
         "awesome-list",
