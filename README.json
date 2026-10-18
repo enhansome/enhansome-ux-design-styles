@@ -63,11 +63,11 @@
             "id": 34526884,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:18:49Z",
-            "open_issues": 1109,
+            "last_commit": "2026-10-18T08:53:57Z",
+            "open_issues": 1111,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99800,
+            "stars": 99806,
             "topics": [
               "ant-design",
               "antd",
@@ -92,11 +92,11 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T13:17:14Z",
-            "open_issues": 1509,
+            "last_commit": "2026-10-18T15:20:21Z",
+            "open_issues": 1523,
             "owner": "mui",
             "repo": "material-ui",
-            "stars": 99230,
+            "stars": 99241,
             "topics": [
               "design-system",
               "material-design",
@@ -119,8 +119,8 @@
             "id": 32551735,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-16T05:35:11Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-18T05:35:58Z",
+            "open_issues": 7,
             "owner": "primer",
             "repo": "css",
             "stars": 13034,
@@ -184,7 +184,7 @@
             "open_issues": 174,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7220,
+            "stars": 7221,
             "topics": [
               "design",
               "design-systems",
@@ -210,7 +210,7 @@
             "open_issues": 2,
             "owner": "vmware-archive",
             "repo": "clarity",
-            "stars": 6388,
+            "stars": 6387,
             "topics": [
               "accessibility",
               "accessible-components",
@@ -302,11 +302,11 @@
             "id": 97698189,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T08:11:17Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-18T00:10:43Z",
+            "open_issues": 11,
             "owner": "JetBrains",
             "repo": "ring-ui",
-            "stars": 3794,
+            "stars": 3795,
             "topics": [
               "components",
               "jetbrains-ui",
@@ -331,7 +331,7 @@
             "open_issues": 84,
             "owner": "OfficeDev",
             "repo": "office-ui-fabric-core",
-            "stars": 3739,
+            "stars": 3738,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:08.073Z"
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:53:00.639Z",
+    "last_updated": "2026-10-18T19:00:51.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
