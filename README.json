@@ -67,7 +67,7 @@
             "open_issues": 1155,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 100193,
+            "stars": 100207,
             "topics": [
               "ant-design",
               "antd",
@@ -92,8 +92,8 @@
             "id": 23083156,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:49:34Z",
-            "open_issues": 1518,
+            "last_commit": "2026-11-14T17:08:18Z",
+            "open_issues": 1519,
             "owner": "mui",
             "repo": "material-ui",
             "stars": 99343,
@@ -155,7 +155,7 @@
             "open_issues": 498,
             "owner": "grommet",
             "repo": "grommet",
-            "stars": 8351,
+            "stars": 8352,
             "topics": [
               "a11y",
               "babel",
@@ -181,10 +181,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T22:10:11Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7244,
+            "stars": 7246,
             "topics": [
               "design",
               "design-systems",
@@ -281,7 +281,7 @@
             "open_issues": 11,
             "owner": "pinterest",
             "repo": "gestalt",
-            "stars": 4385,
+            "stars": 4384,
             "topics": [
               "design-system",
               "javascript",
@@ -745,7 +745,7 @@
             "id": 107425935,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T23:05:11Z",
+            "last_commit": "2026-11-14T02:24:45Z",
             "open_issues": 17,
             "owner": "zendeskgarden",
             "repo": "css-components",
@@ -1207,7 +1207,7 @@
             "id": 293631918,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T06:28:28Z",
+            "last_commit": "2026-11-14T20:57:49Z",
             "open_issues": 3,
             "owner": "AgnosticUI",
             "repo": "agnosticui",
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:15:17.001Z",
+    "last_updated": "2026-11-14T20:58:53.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of UX styleguides and design systems",
